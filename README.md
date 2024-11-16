@@ -24,10 +24,10 @@ This project involves performing exploratory data analysis (EDA) on the [Olist E
 
 ## Power BI Visuals  
 ### Data Model  
-![Power BI Data Model](https://ibb.co/zZRNT8V)  
+![Power BI Data Model](https://i.ibb.co/3cNk9fm/2w2qsw2q.jpg)
 
 ### Dashboard  
-![Power BI Dashboard](https://ibb.co/CHWJTYy)  
+![Power BI Dashboard](https://i.ibb.co/bK7H8CV/efefef.jpg)
 
 ## Dataset Source  
 The dataset is sourced from the [Kaggle Olist Brazilian E-commerce Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).
