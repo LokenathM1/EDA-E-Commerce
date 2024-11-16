@@ -1,4 +1,3 @@
-
 # Exploratory Data Analysis (EDA) on Olist E-commerce Dataset
 
 ## Overview  
@@ -18,7 +17,17 @@ This project involves performing exploratory data analysis (EDA) on the [Olist E
 - **Python Libraries**:  
   - `Pandas` for data manipulation.  
   - `Seaborn` and `Matplotlib` for data visualization.  
+- **Power BI**:  
+  - Data model creation and report visualization.  
+  - Interactive dashboard design for dynamic analysis.  
 - Univariate and bivariate analyses were performed to explore relationships within the data.  
+
+## Power BI Visuals  
+### Data Model  
+![Power BI Data Model](https://i.ibb.co/zZRNT8V)  
+
+### Dashboard  
+![Power BI Dashboard](https://i.ibb.co/CHWJTYy)  
 
 ## Dataset Source  
 The dataset is sourced from the [Kaggle Olist Brazilian E-commerce Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).
